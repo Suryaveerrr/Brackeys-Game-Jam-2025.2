@@ -28,8 +28,8 @@ This game was created in one week for the **Brackeys Game Jam 2025.2**.
 
 This game was made by our wonderful team:
 
-* **Gravity (Suryaverrr):** Programming
-* **Rizosha:** Programming
+* **Suryaveer:** Programming
+* **Ashley James:** Programming
 * **Lwight:** Art & UI Design
 * **Ron:** Music & Sound Effects
 
