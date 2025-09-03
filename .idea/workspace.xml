@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bf097c6-b151-4c1f-aecd-6be5d1426813" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Biscuit_template.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Biscuit_template.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/biscotti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/biscotti.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/macaron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/macaron.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/risk roll.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/risk roll.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/scone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/scone.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/shortbread.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/shortbread.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/wafer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BiscuitIcons/wafer.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SBTestScene/SB_Test.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SBTestScene/SB_Test.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="31sxFGr7a3dJad9sJ4vbagPQV63" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging Merge",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bf097c6-b151-4c1f-aecd-6be5d1426813" name="Changes" comment="" />
+      <created>1756326476726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756326476726</updated>
+      <workItem from="1756326478917" duration="5000" />
+      <workItem from="1756326518620" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
