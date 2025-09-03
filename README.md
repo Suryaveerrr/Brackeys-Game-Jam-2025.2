@@ -35,6 +35,6 @@ This game was made by our wonderful team:
 
 ---
 
-Engine: Unity 6000.2
-Programming : C#
-Version Control : Git/Github
+* **Engine**: Unity 6000.2
+* **Programming**: C#
+* **Version Control**: Git/Github
