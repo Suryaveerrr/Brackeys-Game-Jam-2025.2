@@ -9,8 +9,7 @@
 **Crumble Jack** is our entry for the Brackeys Game Jam 2025.2. It takes the classic tension of Blackjack and adds a chaotic, roguelite-inspired shop system where "risking it" allows you to break the rules.
 
 ![Image Sequence_001_0096](https://github.com/user-attachments/assets/30eb5f26-3e38-4d35-ae53-a3ab5e519c42)
-![Image Sequence_001_0244](https://github.com/user-attachments/assets/dbd963c7-7bc2-46e4-bffc-50964c41b233)
-![Image Sequence_001_0322](https://github.com/user-attachments/assets/4147097f-7875-4f43-bddd-9ddfdc10e15d)
+
 
 
 
