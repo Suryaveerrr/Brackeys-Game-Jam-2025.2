@@ -1,6 +1,12 @@
-# Brackeys Game Jam 2025.2
-Our entry for the Brackeys Game Jam 2025.2. The theme is 'Risk it for the Biscuit'.
-#  Crumble Jack 
+# 🍪 Crumble Jack: Brackeys Game Jam 2025.2
+
+![Unity](https://img.shields.io/badge/Unity-6000.2-black?style=flat&logo=unity)
+![Jam](https://img.shields.io/badge/Jam-Brackeys%202025.2-ff0055)
+![Theme](https://img.shields.io/badge/Theme-Risk%20it%20for%20the%20Biscuit-orange)
+
+> **Hit. Stand. Buy Biscuits.**
+
+**Crumble Jack** is our entry for the Brackeys Game Jam 2025.2. It takes the classic tension of Blackjack and adds a chaotic, roguelite-inspired shop system where "risking it" allows you to break the rules.
 
 ![Image Sequence_001_0096](https://github.com/user-attachments/assets/30eb5f26-3e38-4d35-ae53-a3ab5e519c42)
 ![Image Sequence_001_0244](https://github.com/user-attachments/assets/dbd963c7-7bc2-46e4-bffc-50964c41b233)
@@ -8,33 +14,55 @@ Our entry for the Brackeys Game Jam 2025.2. The theme is 'Risk it for the Biscui
 
 
 
----
-## About The Game
+## 🃏 About The Game
 
-This game was created in one week for the **Brackeys Game Jam 2025.2**.
-* **Jam Theme:** _Risk it for the Biscuit_
+This game was created in **one week** for the **Brackeys Game Jam 2025.2**.
 
----
-## How to Play
-
-* **Objective:** Get a hand total closer to 21 than the dealer, without going over.
-* **Controls:** Use the **Hit** button to draw another card. Use the **Stand** button to end your turn and let the dealer play.
-* **The Twist:** Use the chips you win to buy powerful, single-use **Biscuits** from the shop to gain an edge! The shop offers two random biscuits each round, but you can pay a small fee to **Reroll** the selection.
-
+### The Twist: "Risk it for the Biscuit"
+In standard Blackjack, chips are just a score. In **Crumble Jack**, chips are ammo.
+* **Win Chips:** By beating the dealer.
+* **Spend Chips:** Between rounds, visit the Shop.
+* **Buy Biscuits:** Powerful, single-use items that let you manipulate cards, swap hands, or force the dealer to bust.
 
 ---
 
-## Credits
+## 🎮 How to Play
+
+**Objective:** Get a hand total closer to **21** than the dealer, without going over.
+
+| Phase | Action |
+| :--- | :--- |
+| **Card Phase** | • **Hit:** Draw another card.<br>• **Stand:** End your turn and let the dealer play. |
+| **Shop Phase** | • **Buy Biscuits:** Spend winnings on power-ups.<br>• **Reroll:** Pay a small fee to change the shop selection.<br>• **Use Item:** Activate biscuits to change the tide of the round. |
+
+---
+
+## 📸 Gallery
+
+| Action | Result |
+| :---: | :---: |
+| ![Gameplay](https://github.com/user-attachments/assets/dbd963c7-7bc2-46e4-bffc-50964c41b233) | ![Win](https://github.com/user-attachments/assets/4147097f-7875-4f43-bddd-9ddfdc10e15d) |
+
+---
+
+## 👥 Credits
 
 This game was made by our wonderful team:
 
-* **Suryaveer:** Programming
-* **Ashley James:** Programming
-* **Lwight:** Art & UI Design
-* **Ron:** Music & Sound Effects
+| Team Member | Role |
+| :--- | :--- |
+| **Suryaveer** | Programming |
+| **Ashley James** | Programming |
+| **Lwight** | Art & UI Design |
+| **Ron** | Music & Sound Effects |
 
 ---
 
-* **Engine**: Unity 6000.2
-* **Programming**: C#
-* **Version Control**: Git/Github
+## ⚙️ Technical
+
+* **Engine:** Unity 6000.2
+* **Language:** C#
+* **Version Control:** Git/GitHub
+
+---
+
